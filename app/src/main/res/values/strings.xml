@@ -16,7 +16,7 @@
     <string name="ten">10</string>
     <string name="fifteen">15</string>
     <string name="thirty">30</string>
-    <atring name="amount_decimal">100000.00</atring>
+    <string name="amount_decimal">100000.00</string>
     <string name="rate_decimal">.035</string>
     <string name="done">Done</string>
 
