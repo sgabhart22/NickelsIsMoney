@@ -1,3 +1,16 @@
 <resources>
+
     <string name="app_name">NickelsIsMoney</string>
+    <string name="label_amount">Amount</string>
+    <string name="amount">$100000.00</string>
+    <string name="label_years">Years</string>
+    <string name="years">30</string>
+    <string name="label_rate">Interest Rate</string>
+    <string name="rate">3.5%</string>
+    <string name="label_monthly">Monthly Payment</string>
+    <string name="monthly">$449.04</string>
+    <string name="label_total">Total Payment</string>
+    <string name="total">$161654.66</string>
+    <string name="modify">Modify Data</string>
+
 </resources>
